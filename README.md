@@ -1,2 +1,8 @@
 # sara
-![IMG_2343](https://github.com/user-attachments/assets/32e2e319-27b5-4c16-a608-b797dbfbb7c4)
+
+### Technologies & Tools
+### Tailwind CSS
+[https://img.shields.io/badge/Css-massege-blue](https://img.shields.io/badge/CSS-massege-blue)
+### JavaScript
+
+### Frant-End
